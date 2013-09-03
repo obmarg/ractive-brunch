@@ -4,6 +4,8 @@
   "description": "Adds Ractive.js support to brunch.",
   "author": "Graeme Coupar (@obmarg)",
   "homepage": "https://github.com/obmarg/ractive-brunch",
+  "bugs": "https://github.com/obmarg/ractive-brunch/issues",
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "git@github.com:obmarg/ractive-brunch.git"
