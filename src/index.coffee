@@ -1,4 +1,4 @@
-Ractive = require 'Ractive'
+Ractive = require 'ractive'
 umd = require 'umd-wrapper'
 sysPath = require 'path'
 
